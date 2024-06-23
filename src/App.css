@@ -1,0 +1,86 @@
+.container{
+    max-height: 500px;
+    max-width: 500px;
+    height: 60vh;
+    width: 80vw;
+    background-color: #2a292e;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+/* -------- Logo -----------*/
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.logo > img{
+    height: 100px;
+    width: 100px;
+}
+
+
+
+/* -------- Heading ----------*/
+.heading{
+    color:  white;
+    font-size: 2rem;
+    font-weight: 500;
+    word-spacing: 4px;
+    letter-spacing: 0.3px;
+}
+
+
+
+/* ----------- OTP -------------*/
+.otp{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.otp > span{
+    border-radius: 6px;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #ffffff29;
+}
+
+.generate-button{
+    color: white;
+    font-size: 1.2rem;
+    background-color: #5252ff;
+    border: 0px solid blue;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 6px;
+    box-shadow: 0px 0px 2px 0px #1f57ff;
+    word-spacing: 5px;
+}
+
+@media screen and (max-width: 578px){
+    .container{
+        height: 60vh;
+        width: 90vw;
+    }
+    .otp > span{
+        padding: 8px 15px;
+    }
+}
