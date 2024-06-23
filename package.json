@@ -1,8 +1,8 @@
 {
-  "homepage": "https://username.github.io/Vite-Project/",
-  "name": "vite-project",
+  "homepage": "https://abhinavkumar2369.github.io/OTP-Generator/",
+  "name": "otp-generator",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
