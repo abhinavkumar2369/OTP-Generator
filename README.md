@@ -1,6 +1,6 @@
 <div align="center">
      <h1 align="center">OTP Generator</h1>
-     <img src="https://github.com/abhinavkumar2369/OTP-Generator/assets/170245635/1f9d6d04-1b42-459f-b42d-29d7090a0cd8" height=90px width=90px/>
+     <img src="https://github.com/abhinavkumar2369/OTP-Generator/assets/170245635/b1479ee3-3db0-4e54-b9b9-d84a0e4796c2" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Website-red?style=for-the-badge">
@@ -57,7 +57,7 @@ A React-based OTP generator that enhances security by creating unique, time-sens
   
 
 ## [➡️ OTP Generator ](https://abhinavkumar2369.github.io/OTP-Generator/)
-![Image](https://github.com/abhinavkumar2369/OTP-Generator/assets/170245635/644208ad-7200-46c7-98b0-1ee0e666d111)
+![image](https://github.com/abhinavkumar2369/OTP-Generator/assets/170245635/fee8128c-d135-413d-9065-0636ec330b21)
 
 
 <!------------------------------------------------->
