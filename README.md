@@ -63,6 +63,72 @@ A React-based OTP generator that enhances security by creating unique, time-sens
 <!------------------------------------------------->
 
 
+## Installation ⚒️
+
+1. First, clone the repository:
+
+   ```bash
+   git clone https://github.com/abhinavkumar2369/OTP-Generator.git
+   cd OTP-Generator
+   ```
+   
+2. Then install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+
+<!------------------------------------------------->
+
+
+## Development ⚒️
+
+- To start the development server, run:
+  
+  ```bash
+  npm run dev
+  ```
+  
+- This will start a local server at `http://localhost:3000` (default).
+
+- For Local network access run
+
+  ```bash
+  npm run dev -- --host
+  ```
+  
+- Open it in your browser to see the project running.
+
+
+<!------------------------------------------------->
+
+
+## Build ⚒️
+
+- To create a production build, run:
+
+  ```bash
+  npm run build
+  ```
+  
+- The output will be in the `dist` directory.
+
+
+<!------------------------------------------------->
+
+
+## Deploy 🚀
+
+- To preview the production build locally, run:
+
+  ```bash
+  npm run preview
+  ```
+
+<!------------------------------------------------->
+
+
 ## Attribution 🙏
 - Logo Image used in the Repository belong to the [SVG Repo](https://www.svgrepo.com/) Website.
 
